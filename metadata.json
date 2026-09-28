@@ -1,0 +1,6 @@
+{
+  "name": "IB Extended Essay (EE) Masterclass & Interactive Guide",
+  "description": "Comprehensive interactive guide and audio lecture companion for the IB Diploma Programme Extended Essay, featuring Gemini 3.8 Flash TTS narration, 34-mark rubric calculator, EE+TOK bonus matrix, and research question builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
